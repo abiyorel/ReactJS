@@ -1,7 +1,7 @@
 {
   "name": "rick-and-morty",
   "version": "0.1.0",
-  "homepage": "http://abiyorel.github.io/reactjs-rickandmorty/",
+  "homepage": "https://abiyorel.github.io/reactjs-rickandmorty",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.6.9",
